@@ -1,4 +1,4 @@
-## NOTE : Run the backend file(Flask+Gemini) locally, as i havent deployed it. 
+## NOTE : Run the backend file(Flask+Gemini) locally, as i haven't deployed it. 
 
 # Automated Data Extraction and Invoice Management Application
 
@@ -59,6 +59,4 @@ The application dynamically handles missing data, highlighting fields that requi
 - **Version Control**: All code is versioned on GitHub.
 
 ## Deployment
-The application is live and can be accessed at: [https://swipe-gray.vercel.app/](#)
-
-
+The application is live and can be accessed at: [](#)

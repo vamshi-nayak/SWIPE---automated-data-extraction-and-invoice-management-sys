@@ -1,0 +1,24 @@
+{
+  "name": "swipe",
+  "version": "1.0.0",
+  "description": "It is an invoice management system",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamshi-nayak/SWIPE---Automated-Data-Extraction-and-Invoice-management-system.git"
+  },
+  "keywords": [
+    "invoice",
+    "management"
+  ],
+  "author": "vamshi nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamshi-nayak/SWIPE---Automated-Data-Extraction-and-Invoice-management-system/issues"
+  },
+  "homepage": "https://github.com/vamshi-nayak/SWIPE---Automated-Data-Extraction-and-Invoice-management-system#readme"
+}
